@@ -6,7 +6,7 @@ const Footer = () => {
     <div style={{ display: 'flex', alignItems: 'center' }}>
       
       <a
-        href="https://github.com/your-github-repo"
+        href="https://github.com/nimish-star/Blink_assignment"
         target="_blank"
         rel="noopener noreferrer"
         style={{ marginLeft: 'auto', textDecoration: 'none', color: 'black' }}
